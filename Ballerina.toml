@@ -1,5 +1,5 @@
 [package]
 org = "azeemmuzammil"
-name = "module_ballerinax_candid"
+name = "candid"
 version = "0.1.0"
-distribution = "2201.7.2"
+distribution = "2201.8.0"
