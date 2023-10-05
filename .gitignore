@@ -1,3 +1,8 @@
 target
 generated
 Config.toml
+
+Dependencies.toml
+
+.DS_Store
+.vscode
